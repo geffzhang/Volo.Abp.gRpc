@@ -5,7 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Volo.Abp.gRpc.Common\Volo.Abp.gRpc.Common.csproj" />
+      <ProjectReference Include="..\Zony.Abp.gRpc.Common\Zony.Abp.gRpc.Common.csproj" />
     </ItemGroup>
 
 </Project>

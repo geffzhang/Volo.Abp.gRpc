@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netstandard2.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\src\Zony.Abp.gRpc.Client\Zony.Abp.gRpc.Client.csproj" />
+      <ProjectReference Include="..\..\src\Zony.Abp.gRpc.Server\Zony.Abp.gRpc.Server.csproj" />
+    </ItemGroup>
+
+</Project>

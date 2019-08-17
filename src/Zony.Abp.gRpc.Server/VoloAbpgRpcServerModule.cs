@@ -1,7 +1,7 @@
 ﻿using System;
 using Volo.Abp.Modularity;
 
-namespace Volo.Abp.gRpc.Server
+namespace Zony.Abp.gRpc.Server
 {
     public class VoloAbpgRpcServerModule : AbpModule
     {
