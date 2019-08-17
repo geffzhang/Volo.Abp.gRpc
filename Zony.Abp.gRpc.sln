@@ -10,7 +10,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zony.Abp.gRpc.Server", "src
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zony.Abp.gRpc.Client", "src\Zony.Abp.gRpc.Client\Zony.Abp.gRpc.Client.csproj", "{0FDEBE4A-83E4-4802-B215-3C4F2D8A556E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zony.Abp.gRpc.Tests", "tests\Zony.Abp.gRpc.Tests\Zony.Abp.gRpc.Tests.csproj", "{E194AB88-B00E-448C-B2E6-75E37A63A9E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zony.Abp.gRpc.Common.Tests", "tests\Zony.Abp.gRpc.Common.Tests\Zony.Abp.gRpc.Common.Tests.csproj", "{E194AB88-B00E-448C-B2E6-75E37A63A9E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

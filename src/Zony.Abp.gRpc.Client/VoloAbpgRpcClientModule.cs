@@ -1,9 +1,9 @@
-﻿using System;
-using Volo.Abp.Modularity;
+﻿using Volo.Abp.Modularity;
 
 namespace Zony.Abp.gRpc.Client
 {
     public class VoloAbpgRpcClientModule : AbpModule
     {
+        
     }
 }
