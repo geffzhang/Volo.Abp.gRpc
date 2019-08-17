@@ -427,3 +427,10 @@ MigrationBackup/
 !.vscode/launch.json
 !.vscode/extensions.json
 
+/.idea/.idea.Zony.Abp.gRpc/.idea/encodings.xml
+/.idea/.idea.Zony.Abp.gRpc/.idea/indexLayout.xml
+/.idea/.idea.Zony.Abp.gRpc/.idea/modules.xml
+/.idea/.idea.Zony.Abp.gRpc/.idea/projectSettingsUpdater.xml
+/.idea/.idea.Zony.Abp.gRpc/riderModule.iml
+/.idea/.idea.Zony.Abp.gRpc/.idea/vcs.xml
+/Zony.Abp.gRpc.sln.DotSettings
